@@ -1,7 +1,7 @@
 # 🏠 House Price Prediction
 
 **IBM Internship Project**  
-**Author:** Gaurav Singh Juneja  
+**Author:** Gursimarjot Singh
 **Dataset:** [California Housing Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html) (built into scikit-learn)
 
 ---
@@ -23,10 +23,10 @@ This project builds an end-to-end **Machine Learning pipeline** to predict media
 
 ```
 ibm-internship/
-├── GauravSinghJuneja_HousePricePrediction.ipynb  ← Complete ML notebook (Code File)
+├── GursimarjotSingh_HousePricePrediction.ipynb  ← Complete ML notebook (Code File)
 ├── requirements.txt                               ← Python dependencies
 ├── README.md                                      ← This file
-├── GauravSinghJuneja_ProjectReport.docx           ← Full project report
+├── GursimarjotSingh_ProjectReport.docx            ← Full project report
 └── models/                                        ← Saved model & scaler (generated on run)
     ├── house_price_model.pkl
     └── scaler.pkl
@@ -95,7 +95,7 @@ pip install -r requirements.txt
 
 ### 4. Run the Jupyter Notebook
 ```bash
-jupyter notebook GauravSinghJuneja_HousePricePrediction.ipynb
+jupyter notebook GursimarjotSingh_HousePricePrediction.ipynb
 ```
 Run all cells sequentially (Cell → Run All).
 
@@ -128,6 +128,6 @@ Run all cells sequentially (Cell → Run All).
 
 ## 📧 Contact
 
-**Gaurav Singh Juneja**  
+**Gursimarjot Singh**  
 IBM Internship Program  
 GitHub: [@gsjuneja226](https://github.com/gsjuneja226)
